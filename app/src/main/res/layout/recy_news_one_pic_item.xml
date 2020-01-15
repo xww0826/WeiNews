@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:paddingLeft="@dimen/dp_8"
+    android:paddingTop="@dimen/dp_16"
+    android:paddingRight="@dimen/dp_8"
+    android:layout_margin="1dp"
+    android:clickable="true"
+    android:paddingBottom="@dimen/dp_16"
+    android:background="@drawable/item_ripple">
+
+    <ImageView
+        android:id="@+id/rv_item_news_img_1"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/dp_4"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/rv_item_news_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/rv_item_news_img_1"
+        android:gravity="center_vertical"
+        android:maxLines="2"
+        android:paddingLeft="@dimen/dp_8"
+        android:paddingRight="@dimen/dp_8"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp_16" />
+
+    <TextView
+        android:id="@+id/rv_item_news_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/dp_8"
+        android:layout_marginBottom="@dimen/dp_8"
+        android:layout_toRightOf="@+id/rv_item_news_img_1"
+        android:textColor="@color/colorGray"
+        android:textSize="@dimen/sp_10" />
+
+    <TextView
+        android:id="@+id/rv_item_news_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/dp_8"
+        android:layout_marginBottom="@dimen/dp_8"
+        android:textColor="@color/colorGray"
+        android:textSize="@dimen/sp_10" />
+</RelativeLayout>
