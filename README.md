@@ -22,6 +22,6 @@
 <img src="https://github.com/xww0826/WeiNews/blob/master/app/src/main/assets/demo_pic_01.png" width = "900" height = "500" alt="demo01" align=center />
 <img src="https://github.com/xww0826/WeiNews/blob/master/app/src/main/assets/demo_pic_02.png" width = "900" height = "500" alt="demo01" align=center />
 ## 关于作者
-博客：https://blog.csdn.net/smile_Running
-联系QQ：122265264
-邮箱：xuweiwei0826@gmail.com
+- 博客：https://blog.csdn.net/smile_Running
+- 联系QQ：122265264
+- 邮箱：xuweiwei0826@gmail.com
