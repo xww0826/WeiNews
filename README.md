@@ -19,5 +19,5 @@
 - RecylerView 的多布局和下拉刷新
 - 白天/夜间模式的切换功能
 ## 演示
-<img src="https://github.com/xww0826/WeiNews/blob/master/app/src/main/assets/demo_pic_01.png" width = "1000" height = "1800" alt="demo01" align=center />
+<img src="https://github.com/xww0826/WeiNews/blob/master/app/src/main/assets/demo_pic_01.png" width = "900" height = "500" alt="demo01" align=center />
 <img src="https://github.com/xww0826/WeiNews/blob/master/app/src/main/assets/demo_pic_02.png" width = "1000" height = "1800" alt="demo01" align=center />
